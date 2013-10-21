@@ -1,0 +1,2 @@
+serviceClass: fr.soat.gwthibernate.client.GreetingService
+path: 8999F54D5916AB3747BE67C1FEEB439F.gwt.rpc

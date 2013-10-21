@@ -1,0 +1,2 @@
+serviceClass: fr.soat.gwthibernate.client.services.PersonService
+path: 69A6A3F10D3654EB90A44BF0797CEA1A.gwt.rpc

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <!-- Inherit our applications main module.                      -->
+  <inherits name='fr.soat.gwthibernate.GwtHibernate' />
+
+  <!-- Specify the path to any remote services.                   -->
+  <servlet path="/GwtHibernate/greet" class="fr.soat.gwthibernate.server.GreetingServiceImpl" />
+
+</module>
